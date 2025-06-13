@@ -7,10 +7,10 @@ I'm an Information Systems graduate passionate about **Cloud, DevOps, and Automa
 ## 🌟 About Me
 
 - 🎓 B.Sc. in Information Systems — University of Colombo School of Computing  
-- 🛠️ Worked as a DevOps Engineer Intern @ Paracom Technologies Pvt. Ltd  
+- 🛠️ Worked as a DevOps Engineer Intern @ Paraqum Technologies Pvt. Ltd  
 - ☁️ Currently preparing for the **AWS Solutions Architect Associate** certification  
 - 💬 I’m most comfortable working with:  
-  `Linux` · `AWS` · `Docker` · `Bash` · `Git`
+  `Linux` · `AWS` · `Docker` · `Bash` · `Python`
 
 ---
 
