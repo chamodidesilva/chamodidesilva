@@ -8,7 +8,7 @@ I’m someone who is actively growing in the DevOps space. I’m drawn to DevOps
 
 - B.Sc. in Information Systems (First class) — University of Colombo School of Computing, Sri Lanka 
 - Worked as a DevOps Engineer Intern @ Paraqum Technologies Pvt. Ltd for 6 months
-- Currently preparing for the **AWS Solutions Architect Associate** certification  
+- Currently preparing for the AWS Solutions Architect Associate certification exam
 - I’m most comfortable working with:  
  [![My Skills](https://skillicons.dev/icons?i=linux,aws,docker,bash)](https://skillicons.dev)
 
@@ -21,7 +21,7 @@ I’m someone who is actively growing in the DevOps space. I’m drawn to DevOps
 
 ---
 
-## I'm Currently Focused On
+## I'm Currently Learning
  [![My Skills](https://skillicons.dev/icons?i=kubernetes,prometheus)](https://skillicons.dev)
 
 
