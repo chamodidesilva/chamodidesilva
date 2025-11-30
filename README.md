@@ -1,35 +1,30 @@
 # 👋 Hi there, I'm Chamodi
 
-I'm an Information Systems graduate passionate about **Cloud, DevOps, and Automation**. I enjoy designing efficient systems, automating processes, and experimenting with infrastructure tools. Currently, I'm building hands-on projects to deepen my skills in **Linux, AWS, Docker, and scripting**.
+I’m someone who is actively growing in the DevOps space. I’m drawn to DevOps because I enjoy automating and improving things and building systems that run smoothly in the background. I like creating workflows that remove friction and keep things working just right. I’m currently looking for career opportunities in DevOps where I can transform this passion into a profession.
 
 ---
 
-## 🌟 About Me
+## More About Me
 
-- 🎓 B.Sc. in Information Systems — University of Colombo School of Computing  
-- 🛠️ Worked as a DevOps Engineer Intern @ Paraqum Technologies Pvt. Ltd  
-- ☁️ Currently preparing for the **AWS Solutions Architect Associate** certification  
-- 💬 I’m most comfortable working with:  
-  `Linux` · `AWS` · `Docker` · `Bash` · `Python`
-
----
-
-## 🔧 My Recent Projects
-
-- 🔹 **Log Archiver** – Automates archiving and S3 uploads of system logs using Bash & Python  
-- 🔹 **Static Site Dockerization** – Dockerized a simple static site with Nginx  
-- 🔹 **Log Analyzer (WIP)** – CLI tool to filter and analyze logs, built in Python  
-- More on my [GitHub repositories →](https://github.com/chamodidesilva)
+- B.Sc. in Information Systems (First class) — University of Colombo School of Computing, Sri Lanka 
+- Worked as a DevOps Engineer Intern @ Paraqum Technologies Pvt. Ltd for 6 months
+- Currently preparing for the **AWS Solutions Architect Associate** certification  
+- I’m most comfortable working with:  
+ [![My Skills](https://skillicons.dev/icons?i=linux,aws,docker,bash)](https://skillicons.dev)
 
 ---
 
-## 🧠 What I'm Learning
+## My Ongoing Projects
 
-- 🚀 AWS (Scope for a solutions architect associate)
-- 🐳 Containerization technologies
-- 📜 Infrastructure deployment automation
-- 📈 Monitoring & Logging
-- 📦 CI/CD pipelines
+- [**devops anchor project**](https://github.com/chamodidesilva/devops-anchor-project) – A sandbox project dedicated to learning DevOps practices and experimenting with workflows and tooling  
+- Check out more of my recent projects - [GitHub repositories →](https://github.com/chamodidesilva)
+
+---
+
+## I'm Currently Focused On
+ [![My Skills](https://skillicons.dev/icons?i=kubernetes,prometheus)](https://skillicons.dev)
+
+
 
 ---
 
@@ -40,4 +35,4 @@ I'm an Information Systems graduate passionate about **Cloud, DevOps, and Automa
 
 ---
 
-> “Start where you are. Use what you have. Do what you can.” – Arthur Ashe
+> I'm building every day — one script, one container, one deployment at a time 🚀
