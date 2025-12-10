@@ -6,7 +6,7 @@ I’m someone who is actively growing in the DevOps space. I’m drawn to DevOps
 
 ## More About Me
 
-- B.Sc. in Information Systems (First class) — University of Colombo School of Computing, Sri Lanka 
+- B.Sc. in Information Systems — University of Colombo School of Computing, Sri Lanka 
 - Worked as a DevOps Engineer Intern @ Paraqum Technologies Pvt. Ltd for 6 months
 - Currently preparing for the AWS Solutions Architect Associate certification exam
 - I’m most comfortable working with:  
@@ -16,13 +16,13 @@ I’m someone who is actively growing in the DevOps space. I’m drawn to DevOps
 
 ## My Ongoing Projects
 
-- [**devops anchor project**](https://github.com/chamodidesilva/devops-anchor-project) – A sandbox project dedicated to learning DevOps practices and experimenting with workflows and tooling  
+- [**Ops-Blog**](https://github.com/chamodidesilva/Ops-Blog) – A Flask blog app in the making which is dedicated to learning DevOps practices and experimenting with tools and workflows
 - Check out more of my recent projects - [GitHub repositories →](https://github.com/chamodidesilva)
 
 ---
 
 ## I'm Currently Learning
- [![My Skills](https://skillicons.dev/icons?i=kubernetes,prometheus)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=kubernetes)](https://skillicons.dev)
 
 
 
@@ -30,8 +30,8 @@ I’m someone who is actively growing in the DevOps space. I’m drawn to DevOps
 
 ## 📫 Let's Connect
 
+- chamodidesil@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/chamodi-de-silva/)
-- [Medium](https://medium.com/@chamodidesilva)
 
 ---
 
