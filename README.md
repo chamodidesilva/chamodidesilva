@@ -1,26 +1,52 @@
 # 👋 Hi there, I'm Chamodi
 
-I’m someone who is actively growing in the DevOps space. I’m drawn to DevOps because I enjoy automating and improving things and building systems that run smoothly in the background. I like creating workflows that remove friction and keep things working just right. I’m currently looking for career opportunities in DevOps where I can transform this passion into a profession.
+I’m a DevOps & Cloud enthusiast focused on building real-world, cloud-native systems with a strong emphasis on automation, CI/CD, and Infrastructure as Code. I enjoy designing systems that are scalable, observable, and cost-efficient, and I’m currently seeking opportunities in DevOps / Cloud Engineering.
 
-## More About Me
+## 🧑‍💻 Highlights
 
 - B.Sc. in Information Systems — University of Colombo School of Computing, Sri Lanka 
-- Worked as a DevOps Engineer Intern @ Paraqum Technologies Pvt. Ltd for 6 months
+- Worked as a **DevOps Engineer Intern** @ Paraqum Technologies Pvt. Ltd
 - Currently preparing for the AWS Solutions Architect Associate certification exam
-- I’m most comfortable working with:  
- [![My Skills](https://skillicons.dev/icons?i=linux,aws,docker,bash)](https://skillicons.dev)
+- Focus areas: CI/CD pipelines, AWS architecture, Infrastructure as Code, workflow automation
+  
+<!-- ## 🧰 Tech Stack
 
-## My Ongoing Projects
+[![Tech Stack](https://skillicons.dev/icons?i=aws,terraform,kubernetes,docker,linux,bash,github,git&size=30)](https://skillicons.dev) -->
 
-- [**Ops-Blog**](https://github.com/chamodidesilva/Ops-Blog) – A Flask blog app in the making which is dedicated to learning DevOps practices and experimenting with tools and workflows
-- Check out more of my recent projects - [GitHub repositories →](https://github.com/chamodidesilva)
+## 🚀 Featured Project
 
-## I'm Currently Learning 
-[![My Skills](https://skillicons.dev/icons?i=kubernetes)](https://skillicons.dev)
+### [**Ops-Blog**](https://github.com/chamodidesilva/Ops-Blog)
+Cloud-native DevOps project demonstrating end-to-end application delivery on AWS.
+* Containerized a Flask application and deployed it across Docker, Kubernetes (Minikube), and AWS ECS
+* Built AWS infrastructure using Terraform (VPC, ECS, EFS, ALB, IAM, CloudWatch, S3, ACM, Parameter Store)
+* Implemented a custom domain (**`opsblog.site`**) with HTTPS using ACM certificates and ALB-based routing
+* Designed a CI/CD system using GitHub Actions with separated workflows for application and infrastructure delivery
+* Implemented workflow orchestration using path-based triggers to optimize build and deployment execution
+* Integrated AWS OIDC authentication for secure, credential-free CI/CD deployments
+* Built cost-aware infrastructure using single-AZ resources and on-demand provisioning via Terraform controls
+* Managed Terraform remote state with S3 and modularized infrastructure into reusable components
 
-## Let's Connect
+## 🧰 Tech Stack
+
+* **Cloud & DevOps:** AWS (ECS, ECR, VPC, ALB, ACM, IAM, EFS, CloudWatch, S3), Terraform
+* **CI/CD:** GitHub Actions, OIDC, Trivy
+* **Containers:** Docker, Kubernetes (Minikube)
+* **Languages:** Bash
+* **OS:** Linux
+
+<img src="https://skillicons.dev/icons?i=aws,terraform,kubernetes,docker,linux,bash,git" width="300"/>
+
+## 📌 Currently Learning
+
+* Kubernetes (deeper workloads & production patterns)
+* Advanced AWS architecture patterns
+* CI/CD optimization & GitOps concepts
+
+## 🤝 Let's Connect
 
 - chamodidesil@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/chamodi-de-silva/)
+
+---
 
 > I'm building every day — one script, one container, one deployment at a time 🚀
