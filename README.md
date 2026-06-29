@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Chamodi
 
-I’m a DevOps & Cloud enthusiast focused on building real-world, cloud-native systems with a strong emphasis on automation, CI/CD, and Infrastructure as Code. I enjoy designing systems that are scalable, observable, and cost-efficient, and I’m currently seeking opportunities in DevOps / Cloud Engineering.
+I’m a DevOps & Cloud enthusiast focused on building real-world, cloud-native systems with a strong emphasis on automation, CI/CD, and IaC. I enjoy designing systems that are scalable, observable, and cost-efficient, and I’m always open to connecting, collaborating, and exchanging ideas about building better systems!
 
 ## 🧑‍💻 Highlights
 
